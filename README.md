@@ -1,8 +1,12 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-An awesome list of dev-focused Discord announce channels
+**An awesome list of dev-focused Discord announce channels**
 
 Discord chat servers that are enabled as [Community Servers](https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server) can include [Announcement Channels](https://support.discord.com/hc/en-us/articles/360032008192). This is a list of announcement servers that share great developer / tech content.
+
+Add your own announce channel using this format: `[#announce-channel-name](https://discord.gg/INVITE-TO-CHANNEL) CHANNEL DESCRIPTION`
+
+---
 
 # Companies & Projects
 
