@@ -10,8 +10,9 @@ Add your own announce channel using this format: `NAME [#announce-channel-name](
 
 # Companies & Projects
 
-* Fission [#fission-announce](https://discord.gg/JNg3McC6Ew) Weekly announcements about releases, new content, and upcoming events related to [Fission](https://fission.codes), our webnative SDK, and other open source and developer related content.
+* Fission [#fission-announce](https://discord.gg/JNg3McC6Ew): Weekly announcements about releases, new content, and upcoming events related to [Fission](https://fission.codes), our webnative SDK, and other open source and developer related content.
+* Orbit [#announce](https://discord.gg/ZXPMf3aQdv): Updates from the [Orbit](https://orbit.love) team, the company behind the [Orbit Model](https://github.com/orbit-love/orbit-model), a framework for building high gravity communities
 
 # Programming Languages & Frameworks
 
-* TypeScript [#updates](https://discord.gg/fAQx4gnNPD) Automatic updates straight from the TypeScript team!
+* TypeScript [#updates](https://discord.gg/fAQx4gnNPD): Automatic updates straight from the TypeScript team!
